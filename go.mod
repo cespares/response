@@ -1,3 +1,3 @@
-module github.com/your-github-username/httphelper
+module github.com/cespares/httphelper
 
 go 1.22
