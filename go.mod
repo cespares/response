@@ -1,3 +1,2 @@
-module github.com/cespares/httphelper
-
+module github.com/cespares/response
 go 1.22
