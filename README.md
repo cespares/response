@@ -5,7 +5,7 @@ Reusable HTTP response helpers for Go APIs.
 ## Install
 
 ```bash
-go get github.com/your-github-username/httphelper@latest
+go get github.com/cespares/httphelper@latest
 ```
 
 ## Usage
@@ -16,7 +16,7 @@ package main
 import (
 	"net/http"
 
-	helper "github.com/your-github-username/httphelper"
+	helper "github.com/cespares/httphelper"
 )
 
 func handler(w http.ResponseWriter, r *http.Request) {
